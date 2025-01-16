@@ -126,7 +126,7 @@ button:disabled {
     }
 
     .container__imagem-pessoa {
-        display: absolute;
+        display: inline-block;
     }
 
     .container__conteudo {
